@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gareema2343
+- 👋 Hi, I’m @ameerag2343
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me gareemarai19@gmail.com
+- 🌱 I’m currently learning Laravel as well as Javascript
+
 
 <!---
 Gareema2343/Gareema2343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
